@@ -1,5 +1,11 @@
 ### mell-o-tron
-CS student at UNIPI. Likes any linear combination of maths, books, biscuits, music, nice pics and cats.
+Computer Scientist
+
+🎓 MSc in Theoretical CS
+💾 MellOS Dev
+⌨️ Perk Dev
+
+I really like mathematics, hiking, pull-up bars, music, cats and food.
 
 ### A link..
 [..to a website containing more info about me](https://mell-o-tron.github.io/)
