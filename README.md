@@ -1,5 +1,7 @@
 ### mell-o-tron
-I'm a computer scientist with a MSc in Theoretical CS. My main projects are [MellOS](https://github.com/mell-o-tron/MellOs) and [`perk`](https://github.com/Alex23087/Perk).
+I'm a PhD Student at the Max Planck Institute for Informatics, in the Automation of Logic group. 
+
+My main personal projects are [MellOS](https://github.com/mell-o-tron/MellOs) and [`perk`](https://github.com/Alex23087/Perk).
 
 I really like mathematics, hiking, pull-up bars, music, cats and food.
 
